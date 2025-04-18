@@ -1,4 +1,4 @@
-# NFA-Simulator
+# NFA Simulator
 
 Simulates the execution of a partial non deterministic finite automata (partial since there are
 no epsilon transitions). 
